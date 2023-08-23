@@ -1,7 +1,7 @@
 # Fitbit-Fitness-Tracker-Analysis
 Analysis of how sleep affects activity levels 
 
-This study examines how users sleep duration correlates with the intensity of their physical activities, distance traveled, step count, and caloric expenditure.
+This study examines how user's sleep duration correlates with the intensity of their physical activities, distance traveled, step count, and caloric expenditure.
 
 The data set was obtained from this Fitbit fitness tracker data set on Kaggle: https://www.kaggle.com/datasets/arashnic/fitbit?resource=download
 
