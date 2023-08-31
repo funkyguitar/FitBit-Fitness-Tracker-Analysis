@@ -7,21 +7,14 @@ The data set was obtained from this Fitbit fitness tracker data set on Kaggle: h
 
 The Fitbit data dictionary is available in .pdf form here: https://www.fitabase.com/media/1930/fitabasedatadictionary102320.pdf
 
-
-<img width="1060" alt="VeryActiveMinutes" src="https://github.com/funkyguitar/FitBit-Fitness-Tracker-Analysis/assets/104698553/c9aa60fe-766d-4b7b-880b-ca1aaebc69a3">
-
+![‎VeryActiveMinutes -Git ‎1](https://github.com/funkyguitar/FitBit-Fitness-Tracker-Analysis/assets/104698553/f353c54b-98d3-45db-9f78-7f26c40f5b78)
 
 
-<img width="1060" alt="264281791-c9aa60fe-766d-4b7b-880b-ca1aaebc69a3" src="https://github.com/funkyguitar/FitBit-Fitness-Tracker-Analysis/assets/104698553/e1f3715e-b9c6-4905-bfaa-dc3d3dbe9690">
+![‎VeryActiveDistance ‎1](https://github.com/funkyguitar/FitBit-Fitness-Tracker-Analysis/assets/104698553/6b8cbfb2-3a66-4641-8717-35df844233f5)
 
 
-
-<img width="1034" alt="Screenshot 2023-08-31 at 12 00 10 AM" src="https://github.com/funkyguitar/FitBit-Fitness-Tracker-Analysis/assets/104698553/8d7a7a42-0b4d-4814-bac9-0f89b40b27b3">
-
+![‎Total Steps - Git ‎1](https://github.com/funkyguitar/FitBit-Fitness-Tracker-Analysis/assets/104698553/5fedb901-c103-4869-b1d2-ebf90d7a57b0)
 
 
-<img width="1028" alt="Screenshot 2023-08-31 at 12 00 37 AM" src="https://github.com/funkyguitar/FitBit-Fitness-Tracker-Analysis/assets/104698553/af624d41-e427-431f-9b50-cfe27973e841">
-
-
-
+![‎Calories ‎1](https://github.com/funkyguitar/FitBit-Fitness-Tracker-Analysis/assets/104698553/cd64b954-51dd-4a78-8f5d-2e78903f0d67)
 
